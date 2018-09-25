@@ -1,0 +1,13 @@
+{
+    "name": "BackEndTesting",
+    "version": "1.0.0",
+    "devDependencies": {
+        "chai": "^3.5.0",
+        "cucumber": "^4.0.0",
+        "request": "^2.88.0",
+        "request-promise": "^4.2.2"
+    },
+    "scripts": {
+        "test": "./node_modules/.bin/cucumber-js"
+    }
+}
